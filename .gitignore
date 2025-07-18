@@ -1,0 +1,15 @@
+# Ignore Postgres data volume
+postgres/data/
+
+# Ignore Spark event logs
+spark/eventlogs/
+
+# Ignore runtime logs
+logs/
+
+# Ignore Python bytecode
+**/__pycache__/
+*.py[cod]
+
+# Ignore Docker volumes/backups
+*.tar
