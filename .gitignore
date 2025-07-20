@@ -13,3 +13,5 @@ logs/
 
 # Ignore Docker volumes/backups
 *.tar
+
+*venv
